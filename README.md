@@ -34,3 +34,5 @@ Grafik Garis (Line Chart): Menampilkan tren perkembangan total alat perikanan da
 Link Visualisai data: https://visualisasi-data-nw3rfqgjaah75t9oczsjsp.streamlit.app/
 
 Link Github: https://visualisasi-data-nw3rfqgjaah75t9oczsjsp.streamlit.app/
+
+Data Sumber: https://galura.jabarprov.go.id/dataset/jumlah-peralatan-teknologi-tepat-guna-perikanan-di-desa-berdasarkan-desakelurahan-di-jawa-barat
